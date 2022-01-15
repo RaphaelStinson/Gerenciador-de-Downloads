@@ -6,7 +6,7 @@ import schedule
 import time
 
 import os
-os.system("pip install Dick.py==1.2.8")
+os.system("pip install Dick.py==1.3.1")
 import amino
 from threading import Thread
 from concurrent.futures import ProcessPoolExecutor
