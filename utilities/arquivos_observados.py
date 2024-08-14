@@ -1,3 +1,4 @@
+# utilities/arquivos_observados.py
 def obter_mapeamento_pastas():
     return {
         '.txt': 'textos',

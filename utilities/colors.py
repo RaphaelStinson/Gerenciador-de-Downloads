@@ -1,4 +1,4 @@
-# src/colors.py
+# utilities/colors.py
 import pyfiglet
 from colored import fg, bg, attr
 from colorama import init

@@ -1,4 +1,4 @@
-# src/config.py
+# utilities/config.py
 
 # Configuração das pastas
 pasta_origem1 = '/storage/emulated/0/Download'

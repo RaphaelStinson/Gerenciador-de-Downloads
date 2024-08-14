@@ -1,4 +1,4 @@
-# src/installer.py
+# utilities/installer.py
 import os
 
 def install_dependencies():
